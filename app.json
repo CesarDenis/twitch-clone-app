@@ -1,0 +1,12 @@
+{
+  "name": "TwitchTVClone",
+  "displayName": "TwitchTVClone",
+  "expo": {
+    "name": "TwitchTVClone",
+    "slug": "TwitchTVClone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
